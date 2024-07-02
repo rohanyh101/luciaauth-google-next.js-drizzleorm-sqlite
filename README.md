@@ -1,6 +1,6 @@
 # Lucia Auth with Google Next.js DrizzleORM SQLite
 
-## Project Description
+<!-- ## Project Description -->
 **This project demonstrates a comprehensive authentication system integrated with Next.js, DrizzleORM, and SQLite using Lucia Auth. The system supports authentication via email and password, as well as third-party authentication using Google.**
 
 ## Setup and Installation,
