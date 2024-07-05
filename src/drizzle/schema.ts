@@ -26,6 +26,8 @@ export type TypeSessionTable = InferSelectModel<typeof SessionTable>;
 export type TypeNewSessionTable = InferInsertModel<typeof SessionTable>;
 
 // relations ...
+// relations don't impact your database schema
+// rather used to define relations between tables on the application level 
 
 export const UserTableRelations = relations(UserTable, ({ many }) => {
     return {
